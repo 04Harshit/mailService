@@ -67,8 +67,8 @@ The script will:
 
 ## File Structure
 
-├── .env <p>        </p> # Environment variables <br>
-├── app.js <p>      </p> # Main script for sending emails <br>
+├── <p> .env             # Environment variables </p> <br>
+├── <p> app.js           # Main script for sending emails </p> <br>
 ├── emails.xlsx <p> </p> # Excel file with recipient data <br>
 ├── content.txt <p> </p> # Storing EMAIL_BODY_CONTENT <br>
 └── package.json <p></p> # Node.js dependencies and scripts <br>
