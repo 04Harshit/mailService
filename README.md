@@ -68,11 +68,11 @@ The script will:
 ## File Structure
 
 .
-├── .env                 # Environment variables
-├── app.js               # Main script for sending emails
-├── emails.xlsx          # Excel file with recipient data
-├── content.txt          # Storing EMAIL_BODY_CONTENT
-└── package.json         # Node.js dependencies and scripts
+├── .env                 # Environment variables <br>
+├── app.js               # Main script for sending emails <br>
+├── emails.xlsx          # Excel file with recipient data <br>
+├── content.txt          # Storing EMAIL_BODY_CONTENT <br>
+└── package.json         # Node.js dependencies and scripts <br>
 
 The email body is dynamically populated with the following template:
 
@@ -87,17 +87,17 @@ Best regards,<br>
 
 ## Enhancements
 
-Throttling: Add a delay between emails to avoid triggering spam filters.
-Validation: Automatically skip invalid email addresses.
-Retry Mechanism: Reattempt failed emails after a delay.
+- Throttling: Add a delay between emails to avoid triggering spam filters.
+- Validation: Automatically skip invalid email addresses.
+- Retry Mechanism: Reattempt failed emails after a delay.
 
 ---
 
 ## Troubleshooting
 
-Authentication Error: Ensure your email provider allows SMTP access and use an app-specific password if required.
-Excel Reading Issue: Confirm the email addresses are correctly placed in column D and match the specified range.
-License
+- Authentication Error: Ensure your email provider allows SMTP access and use an app-specific password if required.
+- Excel Reading Issue: Confirm the email addresses are correctly placed in column D and match the specified range.
+- License
 
 This project is licensed under the MIT License.
 
