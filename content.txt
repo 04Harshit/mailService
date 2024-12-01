@@ -1,0 +1,12 @@
+# Edit the content for .env EMAIL_BODY_CONTENT key
+# Remove all the spaces and next line when adding into the env
+
+Hi,<br><br>
+
+I am reaching out to express my interest in the <b>Software Development Engineer</b> position at your company. As a final-year student at <b>Delhi Technological University</b>, I have developed robust skills in <b>backend development </b> and <b>ios development</b>, complemented by a strong ability to solve complex problems and collaborate effectively within team environments.<br><br>
+
+With <b>four months of internship experience</b> as an <b>SDE intern</b> with over <b>two years</b> of hands-on project development experience and problem solving skills, I am eager to bring my skills and enthusiasm to your team. I am confident that my background and dedication would allow me to make valuable contributions to the organization, and I would welcome the opportunity to discuss how my skills align with the team’s goals.<br><br>
+
+Please feel free to contact me regarding this position or any other roles that may be a fit for my skills and experience.<br><br>
+
+Thank you for your time and consideration.<br><br>
