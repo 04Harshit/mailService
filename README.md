@@ -66,13 +66,11 @@ The script will:
 ---
 
 ## File Structure
-    ```bash
     ├── .env             # Environment variables <br>
     ├── app.js           # Main script for sending emails <br>
     ├── emails.xlsx      # Excel file with recipient data <br>
     ├── content.txt      # Storing EMAIL_BODY_CONTENT <br>
     └── package.json     # Node.js dependencies and scripts <br>
-    ```
 
 The email body is dynamically populated with the following template:
 
