@@ -1,4 +1,4 @@
-# Mail Sending Utility
+# Mail Service
 
 This Node.js-based backend service automates sending personalized job inquiry emails. It reads recipient email addresses from an Excel file, formats dynamic content, and securely sends emails using Nodemailer.
 
