@@ -67,7 +67,7 @@ The script will:
 
 ## File Structure
 
-.
+. <br>
 ├── .env                 # Environment variables <br>
 ├── app.js               # Main script for sending emails <br>
 ├── emails.xlsx          # Excel file with recipient data <br>
@@ -105,8 +105,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or issues, please contact:
-Harshit Garg
-📧 04harshitgarg@gmail.com
+For questions or issues, please contact: <br>
+Harshit Garg <br>
+📧 04harshitgarg@gmail.com <br>
 
 ---
